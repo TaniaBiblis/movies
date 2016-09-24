@@ -7,11 +7,14 @@
 
 .topmenuulli {
     display: inline;
+    margin-left: 9px;
+    margin-right: 9px;
 }
 
 .topmenuulli a {
     text-decoration: none;
     color: white;
+    font-family: 'Oswald', sans-serif;
 }
 
 #topmenu {
@@ -19,5 +22,10 @@
     margin-right: auto;
     width: 80%;
     background-color: #00008B;
+}
+hr {
+    height: 4px;
+    color: white;
+    background-color: white;
 }
 
